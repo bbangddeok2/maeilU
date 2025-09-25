@@ -1,0 +1,21 @@
+@import url(reset.css);
+@import url(common.css);
+
+header {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  background: #fff;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+
+.logo {
+  width: 85px;
+}
+
+.menu_wrap {
+  display: flex;
+}
