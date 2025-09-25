@@ -91,6 +91,8 @@ video {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
+  font-family: "Nanum Gothic", sans-serif;
+  color: #1d1d1d;
 }
 /* HTML5 display-role reset for older browsers */
 article,
